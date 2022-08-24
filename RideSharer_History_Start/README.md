@@ -1,2 +1,0 @@
-# Lyft Mobile Engineering
- 
